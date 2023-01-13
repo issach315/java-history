@@ -25,3 +25,15 @@
         -All the operations will be executed by "JVM" [java virctual machine]
 
 
+                                                   
+                                                  [JRE (java running environment)]
+                                                    |
+                                                    |
+                                                    |
+                                                    V
+                                                    |
+                                                    JVM aking help of [JRE]
+                                                    |
+                                                    V
+                                                    |
+{file.java} --->[java Compailer]-->[byte code]--->[JVM] ----> binary code[machine laguage]---->[CPU]----> mornitor{output}
