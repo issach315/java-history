@@ -1,0 +1,27 @@
+1) WHAT IS JAVA ?
+
+*   Java is a high level programming language.which is used to co-relate with real world
+    senarious.
+
+*   Java is uesed to create the applications which are used to resolve
+    real world problems.
+
+*   java is a sysntatical based programming language.
+
+*   java is highly secured language.
+
+* java is a Object oriented programming language (OOP's).
+
+* java is indipendent language because the byte code.  once wirte rum anyware (like andriod,IOS,linuc...etc)
+
+
+2) Operation stages in java..!
+
+    1.coding
+        -writing a set of instructions in a file developer's responciple.
+    2.compilation
+        -java code is converted into byte code "COMPAILER" is responciple.
+    3.Execution
+        -All the operations will be executed by "JVM" [java virctual machine]
+
+
