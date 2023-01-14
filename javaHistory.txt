@@ -38,3 +38,8 @@
                                                     |
 {file.java} --->[java Compailer]-->[byte code]--->[JVM] ----> binary code[machine laguage]---->[CPU]----> mornitor{output}
 // java having many inbuilt libraies
+// java is didved into three types 
+1. basic java
+2. core java
+3. Advanced java
+
