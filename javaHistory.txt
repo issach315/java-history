@@ -37,3 +37,4 @@
                                                     V
                                                     |
 {file.java} --->[java Compailer]-->[byte code]--->[JVM] ----> binary code[machine laguage]---->[CPU]----> mornitor{output}
+// java having many inbuilt libraies
