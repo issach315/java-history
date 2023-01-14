@@ -43,3 +43,4 @@
 2. core java
 3. Advanced java
 
+Jvm is directly  convert the code to the byte code
